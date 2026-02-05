@@ -17,30 +17,7 @@
 { "type": "Feature", "properties": { "No": 13, "GND No.": 979, "Scheme": "Heidiwaththa Ihala Ulpatha", "Problem to be addressed/Recommendation": "Absence of a reservation for the spring and selling the area to the private parties. Recommend to demarcate 10 perch land and 1. Make dense planting of mixed vegetation comprising Areca nut trees /Kumbuk/Mee/ Godapara/Kaduru/Aththikka/Wal del/Kekuna randomly mixed seedlings at 500 mm grid interval.2. Apply mulching, organic manure and NPK fertilizer. 3. Introduction of riparian plants within water holes. Covered area 250 m2.", "N": 7.17871, "E": 80.68408, "Estimated Cost": "136,250", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_001/Suduwella/sw11.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.68408, 7.17871 ] } },
 { "type": "Feature", "properties": { "No": 14, "GND No.": 976, "Scheme": "Gallanthenna Stream", "Problem to be addressed/Recommendation": "Spring area is not covered and wastes mixing with the spring through human and animal activities.\nVegetables are cultivated in upper lands, leading to contamination with pesticides.\nFires in nearby lands leading to damage to spring and pipelines. Recommend 1. Demarcate an area of about 10 acres as a reservation and boundary should be agave plants and banana at close intervals. 2. Make dense planting of mixed vegetation comprising Areca nut trees /Kumbuk/Mee/ Godapara/Kaduru/Aththikka/Wal del/Kekuna randomly mixed seedlings at 500 mm grid interval.2. Apply mulching, organic manure and NPK fertilizer. 3. Introduction of riparian plants within water holes. Covered area 2500 m2 as several strips.", "N": 7.19482, "E": 80.6896, "Estimated Cost": "1,360,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_001/Uda_Delthota/ud40.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.6896, 7.19482 ] } },
 { "type": "Feature", "properties": { "No": 15, "GND No.": 976, "Scheme": "Udakala Gammanaye Ulpatha", "Problem to be addressed/Recommendation": "The spring has an open tank and a water pump. Electricity facilities are also available but are currently non-operational due to a lack of maintenance. Recommendation 1: A CBO should be formed to operate and maintain the system. \n2. Demarcate an area of about 40 perch as a reservation, and the boundary should be grown banana plants at close intervals. 2. Make dense planting of mixed vegetation comprising Areca nut trees /Kumbuk/Mee/ Godapara/Kaduru/Aththikka/Wal del/Kekuna randomly mixed seedlings at 500 mm grid interval.2. Apply mulching, organic manure and NPK fertilizer. 3. Introduction of riparian plants within water holes. Covered area 600 m2. Finally, as a second priority after establishing all the above is to provide solar panels to operate the pump and ground tank with 50% community support.", "N": 7.18524, "E": 80.67965, "Estimated Cost": "640,400", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_001/Uda_Delthota/ud45.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.67965, 7.18524 ] } },
-{
-  "type": "FeatureCollection",
-  "name": "DWS",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.67581,
-          7.20616
-        ]
-      },
-      "properties": {
-        "No": "111",
-        "GND No.": "900",
-        "Scheme": "tanks",
-        "Problem to be addressed/Recommendation": "minor",
-        "N": 7.20616,
-        "E": 80.67581,
-        "Estimated Cost": "20000",
-        "photopath": "",
-        "created_at": "2026-02-05T10:07:17.672095+00:00"
-      }
-    }
+{ "type": "Feature", "properties": { "No": "111", "GND No.": "900", "Scheme": "tanks", "Problem to be addressed/Recommendation": "minor", "N": 7.20616, "E": 80.67581, "Estimated Cost": "20000", "photopath": "", "geometry": { "type": "Point", "coordinates": [80.67581, 7.20616]}}
+
   ]
 }
